@@ -18,7 +18,7 @@
 import openai
 
 client = openai.OpenAI(
-    base_url="http://116.204.91.171:3000/v1",
+    base_url="https://likely-ebooks-atlanta-domains.trycloudflare.com/v1",
     api_key="你的key"  # 购买后自动获得
 )
 
@@ -39,7 +39,7 @@ print(resp.choices[0].message.content)
 
 ## 🛒 立即购买
 
-👉 [点击购买](http://116.204.91.171:8092)
+👉 [点击购买](https://likely-ebooks-atlanta-domains.trycloudflare.com/ai-shop/)
 
 ## 📚 支持的模型
 
