@@ -18,7 +18,7 @@
 import openai
 
 client = openai.OpenAI(
-    base_url="https://combinations-corpus-current-confident.trycloudflare.com/v1",
+    base_url="https://challenged-easily-announced-incidents.trycloudflare.com/v1",
     api_key="你的key"  # 购买后自动获得
 )
 
@@ -39,7 +39,7 @@ print(resp.choices[0].message.content)
 
 ## 🛒 立即购买
 
-👉 [点击购买](https://combinations-corpus-current-confident.trycloudflare.com/ai-shop/)
+👉 [点击购买](https://challenged-easily-announced-incidents.trycloudflare.com/ai-shop/)
 
 ## 📚 支持的模型
 
